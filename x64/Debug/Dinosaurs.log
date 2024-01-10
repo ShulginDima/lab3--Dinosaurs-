@@ -1,0 +1,6 @@
+﻿  tyrannosaurus.hpp
+  main.cpp
+C:\Users\Shulgin\Downloads\Dinosaurs\main.cpp(186,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Shulgin\Downloads\Dinosaurs\main.cpp(196,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Dinosaurs.vcxproj -> C:\Users\Shulgin\Downloads\Dinosaurs\x64\Debug\Dinosaurs.exe
